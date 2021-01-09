@@ -49,7 +49,7 @@ Narrow down the DataFrame to find your ideal weather condition. For example:
 - Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 As final considerations:
--You must complete your analysis using a Jupyter notebook.
+- You must complete your analysis using a Jupyter notebook.
 - You must use the Matplotlib or Pandas plotting libraries.
 - For Part I, you must include a written description of three observable trends based on the data.
 - For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
