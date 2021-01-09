@@ -56,3 +56,11 @@ As final considerations:
 - You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 - For max intensity in the heat map, try setting it to the highest humidity found in the data set.
 
+## Instructions 
+- clone repository to local machine 
+- once cloaned, open jupyter notebook
+- start with WeatherPy, run cell by cell.  Once you get to the first scatter plot of "Temperature vs. Time", it may have an error saying "variable today does not exist".  If that happens, go back and run the first cell again to import datetime again, then scroll down and run the first "Temperature vs. Time" scatter plot again.
+- from there, continue to run each cell in WeatherPy. 
+- once WeatherPy is complete, navigate to VacationPy.
+- run VacationPy cell by cell until complete.
+
