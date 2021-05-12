@@ -69,7 +69,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](VacationPy/hotel_map.png)
+  ![hotel map](VacationPy/hotel_heatmap.png)
 
 
 
